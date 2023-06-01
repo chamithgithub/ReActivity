@@ -13,13 +13,18 @@ public class Reverese {
 //        System.out.println(reverse);
 
         //method 02
-        char[] array = word.toCharArray();
-        int length =array.length;
+//        char[] array = word.toCharArray();
+//        int length =array.length;
+//
+//        for (int i=length-1 ; i>=0; i--){
+//            reverse=reverse+array[i];
+//        }
+//
+//        System.out.println(reverse);
 
-        for (int i=length-1 ; i>=0; i--){
-            reverse=reverse+array[i];
-        }
-        System.out.println(reverse);
+        //method 03
+        StringBuffer stringBuffer=new StringBuffer(word);
+        System.out.println(stringBuffer.reverse());
 
 
     }
