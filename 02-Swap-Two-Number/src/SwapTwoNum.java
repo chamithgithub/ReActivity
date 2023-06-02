@@ -12,9 +12,17 @@ int b =20;
 //        b=c;
 //
         //method 02
-    a=a+b;
-    b=a-b;
-    a=a-b;
+//    a=a+b;
+//    b=a-b;
+//    a=a-b;
+
+        //method 03
+        a=a*b;
+        b=a/b;
+        a=a/b;
+
+
+
 
         System.out.println("After Swapping value are a : " +a +" , b :" +b);
 
