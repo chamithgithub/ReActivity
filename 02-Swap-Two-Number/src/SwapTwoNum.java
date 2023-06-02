@@ -21,9 +21,6 @@ int b =20;
         b=a/b;
         a=a/b;
 
-
-
-
         System.out.println("After Swapping value are a : " +a +" , b :" +b);
 
     }
