@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/01-Reverse_String.iml" filepath="$PROJECT_DIR$/01-Reverse_String.iml" />
       <module fileurl="file://$PROJECT_DIR$/../02-Swap-Two-Number/02-Swap-Two-Number.iml" filepath="$PROJECT_DIR$/../02-Swap-Two-Number/02-Swap-Two-Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/../03-characterCount/03-characterCount.iml" filepath="$PROJECT_DIR$/../03-characterCount/03-characterCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../04-Reverse_Number/04-Reverse_Number.iml" filepath="$PROJECT_DIR$/../04-Reverse_Number/04-Reverse_Number.iml" />
     </modules>
   </component>
 </project>
