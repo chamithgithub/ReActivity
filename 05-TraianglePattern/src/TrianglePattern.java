@@ -30,5 +30,8 @@ public class TrianglePattern {
             }
             System.out.println();
         }
+
+
+
     }
 }
