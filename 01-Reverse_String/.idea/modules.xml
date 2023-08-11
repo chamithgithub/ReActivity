@@ -8,6 +8,7 @@
       <module fileurl="file://$PROJECT_DIR$/../04-Reverse_Number/04-Reverse_Number.iml" filepath="$PROJECT_DIR$/../04-Reverse_Number/04-Reverse_Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/../05-TraianglePattern/05-TraianglePattern.iml" filepath="$PROJECT_DIR$/../05-TraianglePattern/05-TraianglePattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/../06-StringLength/06-StringLength.iml" filepath="$PROJECT_DIR$/../06-StringLength/06-StringLength.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../07-FindSmallestNumber/07-FindSmallestNumber.iml" filepath="$PROJECT_DIR$/../07-FindSmallestNumber/07-FindSmallestNumber.iml" />
     </modules>
   </component>
 </project>
