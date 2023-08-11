@@ -1,8 +1,10 @@
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
 
 public class FindSmallestNumber {
 
-    int givenArray []= {9,4,5,2,8};
+    Integer givenArray []= {9,4,5,8,8};
 
 //    method 01
     public void findSmallestValue() {
@@ -23,11 +25,20 @@ public class FindSmallestNumber {
         System.out.println(givenArray[0]);
     }
 
+    //method 03
+    public void usingCollections(){
+        List<Integer> list = Arrays.asList(givenArray);
+        Collections.sort(list);
+        int smallest =list.get(0);
+        System.out.println(smallest);
+    }
+
 
     public static void main (String args []){
 
     FindSmallestNumber small =new FindSmallestNumber();
 //        small.findSmallestValue();
-        small.usingArray();
+//        small.usingArray();
+            small.usingCollections();
     }
 }
