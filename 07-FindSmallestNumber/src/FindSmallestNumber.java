@@ -1,9 +1,10 @@
-
+import java.util.Arrays;
 
 public class FindSmallestNumber {
-//        method 01
-    int givenArray []= {9,4,5,3,1};
 
+    int givenArray []= {9,4,5,2,8};
+
+//    method 01
     public void findSmallestValue() {
         int smallest = Integer.MAX_VALUE;
 
@@ -16,10 +17,17 @@ public class FindSmallestNumber {
         System.out.println(smallest);
     }
 
+    //method 02
+    public void usingArray(){
+        Arrays.sort(givenArray);
+        System.out.println(givenArray[0]);
+    }
+
 
     public static void main (String args []){
 
     FindSmallestNumber small =new FindSmallestNumber();
-        small.findSmallestValue();
+//        small.findSmallestValue();
+        small.usingArray();
     }
 }
