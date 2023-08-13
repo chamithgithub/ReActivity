@@ -10,6 +10,8 @@
       <module fileurl="file://$PROJECT_DIR$/../06-StringLength/06-StringLength.iml" filepath="$PROJECT_DIR$/../06-StringLength/06-StringLength.iml" />
       <module fileurl="file://$PROJECT_DIR$/../07-FindSmallestNumber/07-FindSmallestNumber.iml" filepath="$PROJECT_DIR$/../07-FindSmallestNumber/07-FindSmallestNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/../08-ReverseWordInSentence/08-ReverseWordInSentence.iml" filepath="$PROJECT_DIR$/../08-ReverseWordInSentence/08-ReverseWordInSentence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../09-ArrayContainsPresentOrNot/09-ArrayContainsPresentOrNot.iml" filepath="$PROJECT_DIR$/../09-ArrayContainsPresentOrNot/09-ArrayContainsPresentOrNot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../10-FindAlphabetPosition/10-FindAlphabetPosition.iml" filepath="$PROJECT_DIR$/../10-FindAlphabetPosition/10-FindAlphabetPosition.iml" />
     </modules>
   </component>
 </project>
