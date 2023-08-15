@@ -19,6 +19,5 @@ public class FindCountCharactorInString {
         System.out.println(toFind +" is present "+count+" Number of times. ");
 
 
-
     }
 }
