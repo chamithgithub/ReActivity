@@ -14,6 +14,8 @@
       <module fileurl="file://$PROJECT_DIR$/../10-FindAlphabetPosition/10-FindAlphabetPosition.iml" filepath="$PROJECT_DIR$/../10-FindAlphabetPosition/10-FindAlphabetPosition.iml" />
       <module fileurl="file://$PROJECT_DIR$/../11-FindCountCharactorInString/11-FindCountCharactorInString.iml" filepath="$PROJECT_DIR$/../11-FindCountCharactorInString/11-FindCountCharactorInString.iml" />
       <module fileurl="file://$PROJECT_DIR$/../12-ReplaceVowelsSpecialChar/12-ReplaceVowelsSpecialChar.iml" filepath="$PROJECT_DIR$/../12-ReplaceVowelsSpecialChar/12-ReplaceVowelsSpecialChar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../13-VowelsCountInGivenString/13-VowelsCountInGivenString.iml" filepath="$PROJECT_DIR$/../13-VowelsCountInGivenString/13-VowelsCountInGivenString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../14-SumOfIntInAString/14-SumOfIntInAString.iml" filepath="$PROJECT_DIR$/../14-SumOfIntInAString/14-SumOfIntInAString.iml" />
     </modules>
   </component>
 </project>
