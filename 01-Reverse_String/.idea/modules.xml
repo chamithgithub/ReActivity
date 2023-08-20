@@ -18,6 +18,7 @@
       <module fileurl="file://$PROJECT_DIR$/../14-SumOfIntInAString/14-SumOfIntInAString.iml" filepath="$PROJECT_DIR$/../14-SumOfIntInAString/14-SumOfIntInAString.iml" />
       <module fileurl="file://$PROJECT_DIR$/../15-CountNumOfDigits/15-CountNumOfDigits.iml" filepath="$PROJECT_DIR$/../15-CountNumOfDigits/15-CountNumOfDigits.iml" />
       <module fileurl="file://$PROJECT_DIR$/../16-CountEvenAndOddDigits/16-CountEvenAndOddDigits.iml" filepath="$PROJECT_DIR$/../16-CountEvenAndOddDigits/16-CountEvenAndOddDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../17-CountSumOfDigits/17-CountSumOfDigits.iml" filepath="$PROJECT_DIR$/../17-CountSumOfDigits/17-CountSumOfDigits.iml" />
     </modules>
   </component>
 </project>
