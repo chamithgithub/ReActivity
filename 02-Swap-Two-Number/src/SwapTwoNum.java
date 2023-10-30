@@ -11,7 +11,7 @@ int b =20;
 //        a=b;
 //        b=c;
 //
-        //method 02
+//method 02
 //    a=a+b;
 //    b=a-b;
 //    a=a-b;

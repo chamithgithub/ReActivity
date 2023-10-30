@@ -1,10 +1,10 @@
-import java.util.Calendar;
+
 import java.util.HashMap;
 
 public class LetterCounteachWord {
     public static void main(String[] args) {
 
-        eachWord("chamith");
+        eachWord("Chamith");
     }
     public static void eachWord(String typeText){
         HashMap<Character,Integer> map=new HashMap<Character,Integer>();
