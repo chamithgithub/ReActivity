@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01-Reverse_String/01-Reverse_String.iml" filepath="$PROJECT_DIR$/01-Reverse_String/01-Reverse_String.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02-Swap-Two-Number/02-Swap-Two-Number.iml" filepath="$PROJECT_DIR$/02-Swap-Two-Number/02-Swap-Two-Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03-characterCount/03-characterCount.iml" filepath="$PROJECT_DIR$/03-characterCount/03-characterCount.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04-Reverse_Number/04-Reverse_Number.iml" filepath="$PROJECT_DIR$/04-Reverse_Number/04-Reverse_Number.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05-TraianglePattern/05-TraianglePattern.iml" filepath="$PROJECT_DIR$/05-TraianglePattern/05-TraianglePattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06-StringLength/06-StringLength.iml" filepath="$PROJECT_DIR$/06-StringLength/06-StringLength.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07-FindSmallestNumber/07-FindSmallestNumber.iml" filepath="$PROJECT_DIR$/07-FindSmallestNumber/07-FindSmallestNumber.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08-ReverseWordInSentence/08-ReverseWordInSentence.iml" filepath="$PROJECT_DIR$/08-ReverseWordInSentence/08-ReverseWordInSentence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10-FindAlphabetPosition/10-FindAlphabetPosition.iml" filepath="$PROJECT_DIR$/10-FindAlphabetPosition/10-FindAlphabetPosition.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11-FindCountCharactorInString/11-FindCountCharactorInString.iml" filepath="$PROJECT_DIR$/11-FindCountCharactorInString/11-FindCountCharactorInString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12-ReplaceVowelsSpecialChar/12-ReplaceVowelsSpecialChar.iml" filepath="$PROJECT_DIR$/12-ReplaceVowelsSpecialChar/12-ReplaceVowelsSpecialChar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13-VowelsCountInGivenString/13-VowelsCountInGivenString.iml" filepath="$PROJECT_DIR$/13-VowelsCountInGivenString/13-VowelsCountInGivenString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14-SumOfIntInAString/14-SumOfIntInAString.iml" filepath="$PROJECT_DIR$/14-SumOfIntInAString/14-SumOfIntInAString.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15-CountNumOfDigits/15-CountNumOfDigits.iml" filepath="$PROJECT_DIR$/15-CountNumOfDigits/15-CountNumOfDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16-CountEvenAndOddDigits/16-CountEvenAndOddDigits.iml" filepath="$PROJECT_DIR$/16-CountEvenAndOddDigits/16-CountEvenAndOddDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17-CountSumOfDigits/17-CountSumOfDigits.iml" filepath="$PROJECT_DIR$/17-CountSumOfDigits/17-CountSumOfDigits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18-FindLargestOfNumbers3/18-FindLargestOfNumbers3.iml" filepath="$PROJECT_DIR$/18-FindLargestOfNumbers3/18-FindLargestOfNumbers3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/19-RemoveOrFindDuplicateElementsInArray/19-RemoveOrFindDuplicateElementsInArray.iml" filepath="$PROJECT_DIR$/19-RemoveOrFindDuplicateElementsInArray/19-RemoveOrFindDuplicateElementsInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ReActivity.iml" filepath="$PROJECT_DIR$/.idea/ReActivity.iml" />
+    </modules>
+  </component>
+</project>
