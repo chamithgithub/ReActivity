@@ -36,10 +36,14 @@ public class RemoveOrFindDuplicateElementsInArray {
     public static void removeDuplicate(int [] arr){
         HashSet<Integer> uniqList =new HashSet<>();
 
+//        for (int num:arr) {
+//            if (uniqList.add(num)==false){
+//                System.out.println("duplicate is :"+num);
+//            }
+//        }
         for (int num:arr) {
-            if (uniqList.add(num)==false){
-                System.out.println("duplicate is :"+num);
-            }
+            uniqList.add(num);
+
         }
         System.out.println("After remove duplicate ,showing elements :"+uniqList);
     }
