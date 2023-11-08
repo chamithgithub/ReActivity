@@ -21,6 +21,7 @@
       <module fileurl="file://$PROJECT_DIR$/18-FindLargestOfNumbers3/18-FindLargestOfNumbers3.iml" filepath="$PROJECT_DIR$/18-FindLargestOfNumbers3/18-FindLargestOfNumbers3.iml" />
       <module fileurl="file://$PROJECT_DIR$/19-RemoveOrFindDuplicateElementsInArray/19-RemoveOrFindDuplicateElementsInArray.iml" filepath="$PROJECT_DIR$/19-RemoveOrFindDuplicateElementsInArray/19-RemoveOrFindDuplicateElementsInArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/ReActivity.iml" filepath="$PROJECT_DIR$/.idea/ReActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/x20-CheckGivenNumberisPrimeOrNot.iml" filepath="$PROJECT_DIR$/x20-CheckGivenNumberisPrimeOrNot.iml" />
     </modules>
   </component>
 </project>
