@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/ReActivity.iml" filepath="$PROJECT_DIR$/.idea/ReActivity.iml" />
       <module fileurl="file://$PROJECT_DIR$/_20_CheckGivenNumberisPrimeOrNot/_20_CheckGivenNumberisPrimeOrNot.iml" filepath="$PROJECT_DIR$/_20_CheckGivenNumberisPrimeOrNot/_20_CheckGivenNumberisPrimeOrNot.iml" />
       <module fileurl="file://$PROJECT_DIR$/_21_FindSumOfElementsInArray/_21_FindSumOfElementsInArray.iml" filepath="$PROJECT_DIR$/_21_FindSumOfElementsInArray/_21_FindSumOfElementsInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_22_EvenOddNumbersfromGivenArray/_22_EvenOddNumbersfromGivenArray.iml" filepath="$PROJECT_DIR$/_22_EvenOddNumbersfromGivenArray/_22_EvenOddNumbersfromGivenArray.iml" />
     </modules>
   </component>
 </project>
