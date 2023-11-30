@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/_21_FindSumOfElementsInArray/_21_FindSumOfElementsInArray.iml" filepath="$PROJECT_DIR$/_21_FindSumOfElementsInArray/_21_FindSumOfElementsInArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/_22_EvenOddNumbersfromGivenArray/_22_EvenOddNumbersfromGivenArray.iml" filepath="$PROJECT_DIR$/_22_EvenOddNumbersfromGivenArray/_22_EvenOddNumbersfromGivenArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/_23_FindMissingNumberInAnArray/_23_FindMissingNumberInAnArray.iml" filepath="$PROJECT_DIR$/_23_FindMissingNumberInAnArray/_23_FindMissingNumberInAnArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_25_FactorialOfANumber/_25_FactorialOfANumber.iml" filepath="$PROJECT_DIR$/_25_FactorialOfANumber/_25_FactorialOfANumber.iml" />
     </modules>
   </component>
 </project>
